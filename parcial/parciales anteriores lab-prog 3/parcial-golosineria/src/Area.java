@@ -1,0 +1,3 @@
+public enum Area {
+    FINANZAS, VENTAS, MARKETING, LOGISTICA;
+}

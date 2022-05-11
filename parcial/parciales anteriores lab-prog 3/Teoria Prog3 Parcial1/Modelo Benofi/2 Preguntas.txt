@@ -1,0 +1,41 @@
+
+---------------------------------------------------------------------
+Mencione al menos 5 buenas practicas a la hora de pensar, programar y codificar un sistema en la POO
+Rta:
+---------------------------------------------------------------------
+¿Cuales son las partes de una clase? Explique brevemente cada una.
+Rta:
+---------------------------------------------------------------------
+¿Que es una jerarquia de clases y para que seria util en la POO?
+Rta:
+---------------------------------------------------------------------
+¿Que es un metodo sobrecargado?¿Cuales serian los pasos para sobrecargar un metodo?
+¿Que 3 alternativas / caminos tengo a la hora de sobrecargar un metodo e invocarlo?
+Rta:
+---------------------------------------------------------------------
+Explique el metodo toString() y equals(Object obj)
+Rta:
+---------------------------------------------------------------------
+Mencione las diferencias entre el tipo de dato String y el resto. Mencione y explique 3 metodos
+Rta:
+---------------------------------------------------------------------
+Diseñe 2 clases ORIGINALES donde se aplique herencia, encapsulamiento y polimorfismo
+Rta:
+---------------------------------------------------------------------
+¿Que es un constructor y que (y como) fundamentos de la POO podemos aplicar en ellos?
+Rta:
+---------------------------------------------------------------------
+Defina los problemas de usar en el main una coleccion de una clase solamente con el getter
+Rta:
+---------------------------------------------------------------------
+Defina los beneficios y consideraciones particulares de usar en el main una coleccion de una clase sin el getter
+Rta:
+---------------------------------------------------------------------
+¿Que significa que un String es un objeto no modificable?
+¿Que mecanismos tenemos para evitar eso?
+Rta:
+---------------------------------------------------------------------
+En Java ¿Que significa tecnicamente que nuna clase hereda de otra? 
+¿Y semanticamente?
+Rta:
+---------------------------------------------------------------------
